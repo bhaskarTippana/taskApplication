@@ -7,6 +7,7 @@ libraries used:
         "uuid": "^9.0.0",
         "express": "^4.18.2",
         "axios": "^1.4.0",
+<h1>How to run application</h1>
 
 =====> in terminal run npm install to install all the dependencies then 
 =====> run npm start to run react application.
